@@ -11,4 +11,4 @@ Software included
 + apache2 (mod_php5, mod_python, mod_rewrite)
 + mysql
 + openssl
-+ php5(mysql, curl, memcache
++ php5(mysql, curl, memcache)
